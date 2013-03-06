@@ -1,0 +1,26 @@
+{
+  "name": "llowder-wiki_page",
+  "author": "llowder",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    "Modulefile": "11f7d9b170895e326c972f947a89813b",
+    "README.markdown": "8f7af0eff35fd28ba2ccd6328d5ff495",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "lib\\puppet\\type\\wiki_page.rb": "07201fbc63ba6d9fdfd5feea9d0c9423",
+    "manifests\\init.pp": "f50b798694c12e2b629950a3d849d098",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests\\init.pp": "a0f16578ffde77fc8a28ee09947c07e3"
+  },
+  "types": [
+    {
+      "name": "wiki_page"
+    }
+  ],
+  "dependencies": []
+}
